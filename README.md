@@ -13,7 +13,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Mes dernières vidéos Youtube
 <!-- YOUTUBE:START -->
 - [Caridina Cantonensis crystal red pendant le nourissage](https://www.youtube.com/watch?v=UkxPpdamYNE)
 - [Caridina Cantonensis "Crystal Red"](https://www.youtube.com/watch?v=1c8ybibaRaE)
@@ -24,7 +24,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Derniers articles de blog
 <!-- BLOG-POST-LIST:START -->
 - [Exporter sa clé SSH avec ssh-copy-id vers un raspi  (ou autre)](http://nagashur.com/blog/2020/02/28/exporter-sa-cle-ssh-avec-ssh-copy-id-vers-un-raspi-ou-autre/)
 - [Mise en place de l’expérience sur la seiyru stone](http://nagashur.com/blog/2018/02/08/mise-place-de-lexperience-seiyru-stone/)
