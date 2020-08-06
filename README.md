@@ -15,6 +15,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Caridina Cantonensis crystal red pendant le nourissage](https://www.youtube.com/watch?v=UkxPpdamYNE)
+- [Caridina Cantonensis "Crystal Red"](https://www.youtube.com/watch?v=1c8ybibaRaE)
+- [Caridina Yellow King-Kong grainée : gros plan sur les oeufs!](https://www.youtube.com/watch?v=zDXGjrZ1UiA)
+- [Corydoras Julii close-up](https://www.youtube.com/watch?v=rYBy04XPk00)
+- [Yellow king kong and neocaridina blue velvet/sakura during feeding](https://www.youtube.com/watch?v=C8PP8G1V2hA)
 <!-- YOUTUBE:END -->
 
 ---
