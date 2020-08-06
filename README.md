@@ -21,6 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exporter sa clé SSH avec ssh-copy-id vers un raspi  (ou autre)](http://nagashur.com/blog/2020/02/28/exporter-sa-cle-ssh-avec-ssh-copy-id-vers-un-raspi-ou-autre/)
+- [Mise en place de l’expérience sur la seiyru stone](http://nagashur.com/blog/2018/02/08/mise-place-de-lexperience-seiyru-stone/)
+- [Code de la rampe à LED intelligente version Arduino](http://nagashur.com/blog/2018/02/05/code-de-la-rampe-a-led-intelligente-version-arduino/)
+- [mesure de l’impact de la seiyru stone sur l’eau d’un aquarium](http://nagashur.com/blog/2018/02/05/mesure-de-limpact-de-la-seiyru-stone-sur-leau-dun-aquarium/)
+- [Ajout d’une arrivée d’eau dans la fishroom](http://nagashur.com/blog/2017/12/27/ajout-dune-arrivee-deau-dans-la-fishroom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
