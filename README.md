@@ -5,7 +5,7 @@
 
 
 - [<img align="left" alt="nagashur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [Slog - mon blog][website]
-- [<img align="left" alt="Youtube Audrey Robinel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] - [Youtube][youtube]
+- [<img align="left" alt="Youtube Audrey Robinel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [Youtube][youtube]
 - [<img align="left" alt="Twitter arobinel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [Twitter][twitter]
 - [<img align="left" alt="LinkedIn Audrey Robinel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [LinkedIn][linkedin]
 - [<img align="left" alt="instagram arobinel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [Instagram][instagram]
